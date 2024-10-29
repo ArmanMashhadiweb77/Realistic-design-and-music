@@ -1,0 +1,7 @@
+.button{
+    display: inline-block;
+    background:var(--pr)
+    &__header{
+        display: none;
+    }
+}

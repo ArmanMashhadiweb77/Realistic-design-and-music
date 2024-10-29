@@ -1,0 +1,12 @@
+.contact{
+    &__container{
+        padding-bottom: 3rem;
+    }
+    &__description{
+        text-align: center;
+    }
+    &__info{
+        display: grid;
+        row-gap: .7;
+    }
+}

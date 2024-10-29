@@ -1,0 +1,20 @@
+.footer{
+    background:var(--primary-color-lighten);
+    padding-bottom: 2rem;
+    &__container{
+        row-gap: 2rem;
+    }
+    &__logo{
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
+        color:var(--title-color);
+        font-weight: bold;
+    }
+    &__description,&__link{
+        font-size: 0.9rem;
+    }
+    &__link{
+        colo
+    }
+
+}

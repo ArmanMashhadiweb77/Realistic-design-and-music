@@ -1,0 +1,13 @@
+.services{
+    &__container{
+       padding-top: 1rem;
+    }
+    &__info{
+        display: grid;
+        row-gap: 1rem;
+        background:var(--container-color);
+        box-shadow:
+        text-align: center;
+
+    }
+}

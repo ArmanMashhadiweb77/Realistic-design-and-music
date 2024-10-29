@@ -1,0 +1,15 @@
+.button{
+    display: inline-block;
+    background:var(--primary-color);
+    color:#fff;
+    padding: 0.75rem 1.5rem;
+    bor
+    &:hover{
+        background:var(--container-color);
+        outline: 1px solid var(--primary-color);
+        color:var(--primary-color);
+    }
+    &__header{
+        display: none;
+    }
+}

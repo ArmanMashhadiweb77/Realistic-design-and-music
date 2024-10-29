@@ -1,0 +1,11 @@
+.header{
+    position: fixed;
+    width: 100%;
+    background: var(--body-color);
+    top:0;
+    left: 0;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}

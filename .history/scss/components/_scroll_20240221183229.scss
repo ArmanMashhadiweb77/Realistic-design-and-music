@@ -1,0 +1,17 @@
+.scrollup{
+    position: fixed;
+    background:var(--primary-color);
+    right: 2rem;
+    bottom: 3rem;
+    padding: 0.5rem 0.5rem 0.3rem 0.5rem;
+    border-radius:0.25rem;
+    opacity: 0.8;
+    &:hover{
+        opacity: 1;
+    }
+    &__icon{
+        font-size: 1.25rem;
+        color:var(--container-color);
+    }
+
+}
